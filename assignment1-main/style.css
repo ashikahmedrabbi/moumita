@@ -142,15 +142,20 @@ header {
 
 
 /* call style */
-
 .call {
-    background-image: url('images/gradient2.png');
+    background-image: url('images/watch.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: center;
+}
+
+.call2 {
+    background: linear-gradient(135deg, rgba(0, 0, 0, .4) 0, rgba(0, 0, 0, .4) 25%, rgba(0, 23, 149, .6) 50%, rgba(255, 0, 0, .6) 75%, rgba(0, 23, 149, .6) 100%);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100%;
-    width: 65%;
-    margin: 130px 270px;
-    padding: 50px;
+    background-position: center;
+    margin: 80px 100px 80px 102px;
+    padding: 40px 140px 40px 140px;
     border-radius: 9px;
 }
 
