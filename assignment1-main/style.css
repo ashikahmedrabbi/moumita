@@ -102,8 +102,8 @@ header {
 .planwork {
     display: flex;
     justify-content: space-around;
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 120px;
+    margin-right: 120px;
     margin-bottom: 130px;
     gap: 80px;
 }
@@ -190,7 +190,7 @@ header {
 
 
 .why {
-    background-image: url('images/watch.png');
+    background-image: url('images/banner/45.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -253,9 +253,9 @@ header {
 
 .footer {
     display: flex;
-    gap: 460px;
+    gap: 260px;
     background-color: black;
-    padding: 130px 250px;
+    padding: 80px 120px 80px 120px;
 }
 
 .footertitel {
